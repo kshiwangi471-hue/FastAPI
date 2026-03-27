@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +206,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+=======
+myvenv/
+__pychache__/
+*.pyc 
+.env 
+>>>>>>> 71f3279 (Initial commit, no virtual env)
